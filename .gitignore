@@ -1,0 +1,3 @@
+# Ignorar todos los archivos .rar y .zip
+*.rar
+*.zip
